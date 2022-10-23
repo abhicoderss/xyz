@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int ma {
 
   int first_number, second_number, sum;
     
