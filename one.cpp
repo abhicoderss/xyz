@@ -8,7 +8,7 @@ int main() {
   cout << "Enter njghkghkfkhbgkjdjhcvjhkthfjwo integers: ";
   cin >> first_number >> second_number;
 
-  // sum of two numbers in stored in variable sumOfTwoNumbers
+  // sum of two numbers in stored in the variable sumOfTwoNumbers
   sum = first_number + second_number;
 
   // prints sum 
